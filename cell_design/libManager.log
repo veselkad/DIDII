@@ -1,7 +1,7 @@
 \o Program:		@(#)$CDS: libManager.exe version Exp 01/19/2010 20:09 (ocelot-linux) $
 \o Sub version:		sub-version none
-\o Arguments:		-unmapped -mpssession icfb7834 -mpshost ee4610.ewi.tudelft.nl 
-\o Working Directory:	ee4610.ewi.tudelft.nl:/home/dveselka/DEZEMAN/cell_design
+\o Arguments:		-mpssession icfb13343 -mpshost tud208364 
+\o Working Directory:	tud208364:/home/dveselka/DEZEMAN/cell_design
 \o Extended color mode (TrueColor 32 0x5f) in use.
 \o Warning: LIB basic from File /u/55/55/cadence/DesignKits/UMC090_ET4293/designkit/cds.lib Line 4 redefines
 \o LIB basic from File /home/dveselka/DEZEMAN/cell_design/cds.lib
@@ -11,39 +11,46 @@
 \o Or remove or comment out DEFINE basic
 \o     in /home/dveselka/DEZEMAN/cell_design/cds.lib
 \o to suppress this warning message.
-\o Library Manager customization server connected.
-MPS service: map window
 \o Log file is "/home/dveselka/DEZEMAN/cell_design/libManager.log".
 Opening libManager window.
-Main selection: triplib TSPC_reg2_test
+No main selection
+\o Library Manager customization server connected.
+MPS service: map window
+Main selection: triplib TSPC_reg2_test2 schematic
 \o Opening design file through session server.
 MPS request: edit design
-\o Warning: LIB basic from File /u/55/55/cadence/DesignKits/UMC090_ET4293/designkit/cds.lib Line 4 redefines
-\o LIB basic from File /home/dveselka/DEZEMAN/cell_design/cds.lib
-\o Insert UNDEFINE basic
-\o before DEFINE basic
-\o     in /u/55/55/cadence/DesignKits/UMC090_ET4293/designkit/cds.lib
-\o Or remove or comment out DEFINE basic
-\o     in /home/dveselka/DEZEMAN/cell_design/cds.lib
-\o to suppress this warning message.
-Main selection: triplib TSPC_reg2_test schematic
-MPS request: update library list
-\o Warning: LIB basic from File /u/55/55/cadence/DesignKits/UMC090_ET4293/designkit/cds.lib Line 4 redefines
-\o LIB basic from File /home/dveselka/DEZEMAN/cell_design/cds.lib
-\o Insert UNDEFINE basic
-\o before DEFINE basic
-\o     in /u/55/55/cadence/DesignKits/UMC090_ET4293/designkit/cds.lib
-\o Or remove or comment out DEFINE basic
-\o     in /home/dveselka/DEZEMAN/cell_design/cds.lib
-\o to suppress this warning message.
-MPS request: update library list
-\o Warning: LIB basic from File /u/55/55/cadence/DesignKits/UMC090_ET4293/designkit/cds.lib Line 4 redefines
-\o LIB basic from File /home/dveselka/DEZEMAN/cell_design/cds.lib
-\o Insert UNDEFINE basic
-\o before DEFINE basic
-\o     in /u/55/55/cadence/DesignKits/UMC090_ET4293/designkit/cds.lib
-\o Or remove or comment out DEFINE basic
-\o     in /home/dveselka/DEZEMAN/cell_design/cds.lib
-\o to suppress this warning message.
-MPS request: update library list
+Invoking command (editRename).
+Showing dialog "Rename Cell triplib/TSPC_reg2_test2" (renameDialog).
+Dialog activated Ok in "Rename Cell triplib/TSPC_reg2_test2" (renameDialog).
+\o View file /home/dveselka/DEZEMAN/cell_design/triplib/TSPC_reg2_test2/schematic/sch.cdb is locked by dveselka at host tud208364.ws.tudelft.net
+Closing dialog "Rename Cell triplib/TSPC_reg2_test2" (renameDialog).
+Showing dialog "Rename Failed" (errorDialog).
+\o Cell triplib/TSPC_reg2_test2 has files that are locked or are checked out.
+\o Please check the "Messages" window for a list of which files are causing problem
+\o Rename failed.
+Closing dialog "Rename Failed" (errorDialog).
+Dialog activated Ok in "Rename Failed" (errorDialog).
+Invoking command (editRename).
+Showing dialog "Rename Cell triplib/TSPC_reg2_test2" (renameDialog).
+Dialog activated Ok in "Rename Cell triplib/TSPC_reg2_test2" (renameDialog).
+\o View file /home/dveselka/DEZEMAN/cell_design/triplib/TSPC_reg2_test2/schematic/sch.cdb is locked by dveselka at host tud208364.ws.tudelft.net
+Closing dialog "Rename Cell triplib/TSPC_reg2_test2" (renameDialog).
+Showing dialog "Rename Failed" (errorDialog).
+\o Cell triplib/TSPC_reg2_test2 has files that are locked or are checked out.
+\o Please check the "Messages" window for a list of which files are causing problem
+\o Rename failed.
+Closing dialog "Rename Failed" (errorDialog).
+Dialog activated Ok in "Rename Failed" (errorDialog).
+Main selection: triplib TSPC_reg2_test2
+Invoking command (editRename).
+Showing dialog "Rename Cell triplib/TSPC_reg2_test2" (renameDialog).
+Dialog activated Ok in "Rename Cell triplib/TSPC_reg2_test2" (renameDialog).
+\o View file /home/dveselka/DEZEMAN/cell_design/triplib/TSPC_reg2_test2/schematic/sch.cdb is locked by dveselka at host tud208364.ws.tudelft.net
+Closing dialog "Rename Cell triplib/TSPC_reg2_test2" (renameDialog).
+Showing dialog "Rename Failed" (errorDialog).
+\o Cell triplib/TSPC_reg2_test2 has files that are locked or are checked out.
+\o Please check the "Messages" window for a list of which files are causing problem
+\o Rename failed.
+Closing dialog "Rename Failed" (errorDialog).
+Dialog activated Ok in "Rename Failed" (errorDialog).
 \o libManager is exiting.
