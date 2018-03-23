@@ -1,0 +1,75 @@
+
+********************************************************************************
+Product   : Virtuoso(R) STREAM Out
+Program   : @(#)$CDS: pipo.exe version 5.1.0 06/08/2010 11:10 (cicln04) $
+SubVersion: sub-version 5.10.41.500.6.143
+Started at: 18-Dec-2017  10:30:24
+User Name : dveselka
+Host Name : ee4610.ewi.tudelft.nl
+Directory : /home/dveselka/DEZEMAN/cell_design
+CADENCE Design Systems, Inc.
+********************************************************************************
+
+     1. translating cellview (Thecellname layout)
+
+			Individual Cell Statistics
+
+CellView          Rectangles Polygons   Paths Ellipses Labels Instances Arrays  Nodes
+*************************************************************************************
+Thecellname/layout        12        0       0       0       0       0       0      0
+
+
+                    Statistics Of Layers
+
+
+Cadence    Cadence    Stream   Stream
+ Layer     Purpose    Layer   Datatype Rectangles Polygons Paths  Ellipses  Labels   Nodes
+-------------------------------------------------------------------------------------------
+DIFF       drawing    1         0         1        0        0        0        0        0       
+PPLUS      drawing    11        0         3        0        0        0        0        0       
+PO1        drawing    41        0         1        0        0        0        0        0       
+CONT       drawing    39        0         4        0        0        0        0        0       
+NWEL       drawing    3         0         1        0        0        0        0        0       
+ME1        drawing    46        0         2        0        0        0        0        0       
+
+
+   Summary Of Objects
+
+------------------------
+      12 Rectangles
+       0 Polygons
+       0 Paths
+       0 Ellipses
+       0 Labels
+       0 Instances
+       0 Arrays
+       1 Cells
+       0 Nodes
+
+
+00:00:03 Elapsed time
+00:00:00 CPU time
+
+    7155 Kbytes of memory
+
+*** There were no error or warning message ***
+
+The setup file's contents :
+
+streamOutKeys = list(nil
+	'dumpPcellInfo             t
+	'userSkillFile             ""
+	'layerTable                ""
+	'convertPin                "geometry"
+	'libVersion                "5.0"
+	'units                     "micron"
+	'scale                     0.001
+	'cellMapTable              ""
+	'caseSensitivity           "preserve"
+	'errFile                   "PIPO.LOG.Thecellname"
+	'outFile                   "/home/dveselka/DEZEMAN/Calibre/DRC/Thecellname.calibre.db"
+	'viewName                  "layout"
+	'primaryCell               "Thecellname"
+	'libName                   "Durkadurka"
+	'runDir                    "/home/dveselka/DEZEMAN/Calibre/DRC/"
+)

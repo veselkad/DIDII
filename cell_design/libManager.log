@@ -1,0 +1,49 @@
+\o Program:		@(#)$CDS: libManager.exe version Exp 01/19/2010 20:09 (ocelot-linux) $
+\o Sub version:		sub-version none
+\o Arguments:		-unmapped -mpssession icfb7834 -mpshost ee4610.ewi.tudelft.nl 
+\o Working Directory:	ee4610.ewi.tudelft.nl:/home/dveselka/DEZEMAN/cell_design
+\o Extended color mode (TrueColor 32 0x5f) in use.
+\o Warning: LIB basic from File /u/55/55/cadence/DesignKits/UMC090_ET4293/designkit/cds.lib Line 4 redefines
+\o LIB basic from File /home/dveselka/DEZEMAN/cell_design/cds.lib
+\o Insert UNDEFINE basic
+\o before DEFINE basic
+\o     in /u/55/55/cadence/DesignKits/UMC090_ET4293/designkit/cds.lib
+\o Or remove or comment out DEFINE basic
+\o     in /home/dveselka/DEZEMAN/cell_design/cds.lib
+\o to suppress this warning message.
+\o Library Manager customization server connected.
+MPS service: map window
+\o Log file is "/home/dveselka/DEZEMAN/cell_design/libManager.log".
+Opening libManager window.
+Main selection: triplib TSPC_reg2_test
+\o Opening design file through session server.
+MPS request: edit design
+\o Warning: LIB basic from File /u/55/55/cadence/DesignKits/UMC090_ET4293/designkit/cds.lib Line 4 redefines
+\o LIB basic from File /home/dveselka/DEZEMAN/cell_design/cds.lib
+\o Insert UNDEFINE basic
+\o before DEFINE basic
+\o     in /u/55/55/cadence/DesignKits/UMC090_ET4293/designkit/cds.lib
+\o Or remove or comment out DEFINE basic
+\o     in /home/dveselka/DEZEMAN/cell_design/cds.lib
+\o to suppress this warning message.
+Main selection: triplib TSPC_reg2_test schematic
+MPS request: update library list
+\o Warning: LIB basic from File /u/55/55/cadence/DesignKits/UMC090_ET4293/designkit/cds.lib Line 4 redefines
+\o LIB basic from File /home/dveselka/DEZEMAN/cell_design/cds.lib
+\o Insert UNDEFINE basic
+\o before DEFINE basic
+\o     in /u/55/55/cadence/DesignKits/UMC090_ET4293/designkit/cds.lib
+\o Or remove or comment out DEFINE basic
+\o     in /home/dveselka/DEZEMAN/cell_design/cds.lib
+\o to suppress this warning message.
+MPS request: update library list
+\o Warning: LIB basic from File /u/55/55/cadence/DesignKits/UMC090_ET4293/designkit/cds.lib Line 4 redefines
+\o LIB basic from File /home/dveselka/DEZEMAN/cell_design/cds.lib
+\o Insert UNDEFINE basic
+\o before DEFINE basic
+\o     in /u/55/55/cadence/DesignKits/UMC090_ET4293/designkit/cds.lib
+\o Or remove or comment out DEFINE basic
+\o     in /home/dveselka/DEZEMAN/cell_design/cds.lib
+\o to suppress this warning message.
+MPS request: update library list
+\o libManager is exiting.

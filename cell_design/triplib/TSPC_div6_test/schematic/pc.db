@@ -1,0 +1,22 @@
+#
+analogLib pcapacitor symbol
+C3
+C2
+C0
+C1
+#
+analogLib vdc symbol
+V1
+#
+analogLib vpulse symbol
+V0
+#
+triplib TSPC_div6 symbol
+I0
+#ISCELL
+analogLib gnd symbol
+I3
+I1
+#ISCELL
+analogLib vdd symbol
+I2

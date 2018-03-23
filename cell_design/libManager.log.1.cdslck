@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      dveselka
+HostName                       tud208364.ws.tudelft.net
+ProcessIdentifier              28737
+ProcessCreationTime_UTC        1521119987
+ProcessCreationTime_Readable   Thu Mar 15 14:19:47 2018 CET
+AppIdentifier                  /data/cad/Cadence/IC5/5.1.41HF143/tools/dfII/bin/32bit/libManager.exe
+OSType                         lnx86
+ReasonForPlacingEditLock       log file
+FilePathUsedToEditLock         /home/dveselka/DEZEMAN/cell_design/libManager.log.1
+TimeEditLocked                 Thu Mar 15 14:19:55 2018 CET

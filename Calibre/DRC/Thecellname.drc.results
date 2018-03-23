@@ -1,0 +1,47 @@
+Thecellname 1000
+4.1.1G.DEN_LT25
+1 1 2 Dec 18 10:31:13 2017                     
+Rule File Pathname: /home/dveselka/DEZEMAN/Calibre/DRC/_G-DF-LOGIC_MIXED_MODE90N-1P9M2T1F-Calibre-drc-1.4-p1_
+Minimum DIFF density over 150mX150um area step 50 is 25%
+p 1 4
+-1640 -1800
+1660 -1800
+1660 1500
+-1640 1500
+4.1.11M.a__4.1.11M.b
+1 1 2 Dec 18 10:31:14 2017                     
+Rule File Pathname: /home/dveselka/DEZEMAN/Calibre/DRC/_G-DF-LOGIC_MIXED_MODE90N-1P9M2T1F-Calibre-drc-1.4-p1_
+Maximum P+ diffusion to nearest N+ pick-up spacing is 20um
+p 1 4
+-260 -440
+280 -440
+280 140
+-260 140
+6A.ME1_NSR
+4 4 2 Dec 18 10:31:21 2017                     
+Rule File Pathname: /home/dveselka/DEZEMAN/Calibre/DRC/_G-DF-LOGIC_MIXED_MODE90N-1P9M2T1F-Calibre-drc-1.4-p1_
+Die corner rule 1, ME1 must draw with 135 angle
+p 1 5
+-290 -400
+-190 -400
+-250 -340
+-190 -280
+-290 -280
+p 2 5
+-290 -20
+-190 -20
+-250 40
+-190 100
+-290 100
+p 3 5
+210 -400
+310 -400
+310 -280
+210 -280
+270 -340
+p 4 5
+210 -20
+310 -20
+310 100
+210 100
+270 40

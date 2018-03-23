@@ -1,0 +1,105 @@
+Thecellname 1000
+4.1.1G.DEN_LT25
+1 1 2 Dec 14 10:14:49 2017                     
+Rule File Pathname: /home/dveselka/DEZEMAN/cell_design/_G-DF-LOGIC_MIXED_MODE90N-1P9M2T1F-Calibre-drc-1.4-p1_
+Minimum DIFF density over 150mX150um area step 50 is 25%
+p 1 4
+-1640 -1800
+1660 -1800
+1660 1500
+-1640 1500
+4.1.11M.a__4.1.11M.b
+1 1 2 Dec 14 10:14:50 2017                     
+Rule File Pathname: /home/dveselka/DEZEMAN/cell_design/_G-DF-LOGIC_MIXED_MODE90N-1P9M2T1F-Calibre-drc-1.4-p1_
+Maximum P+ diffusion to nearest N+ pick-up spacing is 20um
+p 1 4
+-260 -440
+280 -440
+280 140
+-260 140
+4.2.1.1A
+4 4 2 Dec 14 10:14:51 2017                     
+Rule File Pathname: /home/dveselka/DEZEMAN/cell_design/_G-DF-LOGIC_MIXED_MODE90N-1P9M2T1F-Calibre-drc-1.4-p1_
+Minimum width of ME1 region is 0.12um
+p 1 6
+-240 -340
+-180 -400
+-135 -400
+-160 -340
+-135 -280
+-180 -280
+p 2 6
+-240 40
+-180 -20
+-135 -20
+-160 40
+-135 100
+-180 100
+p 3 6
+175 -400
+220 -400
+280 -340
+220 -280
+175 -280
+200 -340
+p 4 6
+175 -20
+220 -20
+280 40
+220 100
+175 100
+200 40
+4.2.1.1E
+2 2 2 Dec 14 10:14:51 2017                     
+Rule File Pathname: /home/dveselka/DEZEMAN/cell_design/_G-DF-LOGIC_MIXED_MODE90N-1P9M2T1F-Calibre-drc-1.4-p1_
+Minimum area of ME1 region 0.07 um
+p 1 6
+-240 -340
+-180 -400
+220 -400
+280 -340
+220 -280
+-180 -280
+p 2 6
+-240 40
+-180 -20
+220 -20
+280 40
+220 100
+-180 100
+6A.ME1_NSR
+4 4 2 Dec 14 10:14:57 2017                     
+Rule File Pathname: /home/dveselka/DEZEMAN/cell_design/_G-DF-LOGIC_MIXED_MODE90N-1P9M2T1F-Calibre-drc-1.4-p1_
+Die corner rule 1, ME1 must draw with 135 angle
+p 1 7
+-240 -340
+-180 -400
+-163 -400
+-180 -364
+-180 -316
+-163 -280
+-180 -280
+p 2 7
+-240 40
+-180 -20
+-163 -20
+-180 16
+-180 64
+-163 100
+-180 100
+p 3 7
+203 -400
+220 -400
+280 -340
+220 -280
+203 -280
+220 -316
+220 -364
+p 4 7
+203 -20
+220 -20
+280 40
+220 100
+203 100
+220 64
+220 16

@@ -1,0 +1,21 @@
+#
+triplib omwisselaar1 symbol
+I25
+I21
+I20
+I12
+#
+triplib TSPC_reg2 symbol
+I24
+I23
+I22
+I6
+#ISCELL
+basic opin symbol
+PIN3
+PIN2
+PIN1
+PIN0
+#ISCELL
+basic ipin symbol
+PIN4

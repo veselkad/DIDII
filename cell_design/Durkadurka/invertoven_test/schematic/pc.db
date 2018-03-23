@@ -1,0 +1,18 @@
+#
+analogLib vpulse symbol
+V0
+#
+analogLib vdc symbol
+V1
+#
+analogLib cap symbol
+C0
+#
+Durkadurka invertoven symbol
+I0
+#ISCELL
+analogLib vdd symbol
+I5
+#ISCELL
+analogLib gnd symbol
+I6

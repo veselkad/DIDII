@@ -1,0 +1,9 @@
+*drcRulesFile: /home/dveselka/DEZEMAN/Calibre/DRC/G-DF-LOGIC_MIXED_MODE90N-1P9M2T1F-Calibre-drc-1.4-p1
+*drcRunDir: /home/dveselka/DEZEMAN/cell_design
+*drcLayoutPaths: Thecellname.calibre.db
+*drcLayoutPrimary: Thecellname
+*drcLayoutGetFromViewer: 1
+*drcResultsFile: Thecellname.drc.results
+*drcSummaryFile: Thecellname.drc.summary
+*cmnFDILayoutLibrary: Thecellname
+*cmnFDIDEFLayoutPath: Thecellname.def
