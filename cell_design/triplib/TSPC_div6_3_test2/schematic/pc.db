@@ -1,10 +1,12 @@
 #
-triplib TSPC_div6_4 symbol
-I8
+triplib TSPC_div6 symbol
+I19
 #
-triplib omwisselaar1 symbol
-I5
-I6
+triplib inverter symbol
+I13
+I16
+I17
+I12
 #
 analogLib pcapacitor symbol
 C3

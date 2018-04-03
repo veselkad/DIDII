@@ -1,11 +1,11 @@
 #
-triplib TSPC_reg3 symbol
+triplib TSPC symbol
 I29
-I28
-I27
 I26
+I27
+I28
 #
-triplib omwisselaar1 symbol
+triplib default_inverter symbol
 I20
 I21
 I12

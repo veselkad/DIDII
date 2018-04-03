@@ -1,0 +1,21 @@
+#
+triplib inverter symbol
+I38
+#
+triplib TSPC symbol
+I29
+I26
+I27
+I28
+#
+triplib default_inverter symbol
+I20
+I12
+I36
+#ISCELL
+basic opin symbol
+PIN1
+PIN0
+#ISCELL
+basic ipin symbol
+PIN4

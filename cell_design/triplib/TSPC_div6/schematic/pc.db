@@ -1,19 +1,17 @@
 #
-triplib omwisselaar1 symbol
-I25
-I21
-I20
-I12
+triplib TSPC symbol
+I29
+I26
+I27
+I28
 #
-triplib TSPC_reg2 symbol
-I24
-I23
-I22
-I6
+triplib default_inverter symbol
+I20
+I21
+I12
+I25
 #ISCELL
 basic opin symbol
-PIN3
-PIN2
 PIN1
 PIN0
 #ISCELL
